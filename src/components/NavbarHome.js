@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap';
-import logo from '../assets/images/logobiru.png';
+import logo from '../assets/logo/logobiru.png';
 import '../App.css';
 
 const NavbarHome = () => {

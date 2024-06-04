@@ -36,6 +36,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: 'Helvetica Neue';
 }
 
 .text-align {
@@ -51,3 +52,26 @@
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     opacity: 0.8;
 }
+
+.bg_img {
+    background-image: url('https://www.pexels.com/photo/calm-body-of-lake-between-mountains-346529/');
+}
+
+.accordion-button {
+    background-color: #e0e0e0;
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .accordion-button:not(.collapsed) {
+    color: #000;
+  }
+  
+  .accordion-button:focus {
+    box-shadow: none;
+  }
+  
+  .accordion-body {
+    background-color: #f9f9f9;
+  }
+  

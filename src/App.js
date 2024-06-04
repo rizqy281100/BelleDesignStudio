@@ -13,6 +13,7 @@ import ContactForm from './components/ContactForm..js';
 import AboutUs from './components/AboutUs.js';
 import ProjectsClicked from './components/ProjectsClicked.js';
 import ProjectDetails from './components/ProjectDetails.js';
+import Pricing from './components/Pricing.js';
 
 library.add(fas, far, fab);
 
@@ -23,6 +24,8 @@ const App = () => {
       {/* <ProjectsClicked/> */}
       {/* <AboutUs/> */}
       {/* <ContactForm/> */}
+      <Pricing/>
+      
 
       {/* <Router>
         <Routes>

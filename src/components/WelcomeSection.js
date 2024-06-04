@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 // import { Button } from 'react-bootstrap';
 import './css/WelcomeSection.css';
-import LogoB from '../assets/images/LogoB.png';
+import LogoB from '../assets/logo/LogoB.png';
 import Footer from './Footer.js';
 import MyNavbar from './MyNavbar.js';
 import NavbarHome from './NavbarHome.js';
